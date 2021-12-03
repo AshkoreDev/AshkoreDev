@@ -1,5 +1,5 @@
 
-<h2 align="center"> Hello 🖖 I'm Aracely, welcome to my profile 🎓 👨‍💻 🇻🇪 🦕 </h2>
+<h2 align="center"> Hello 🖖 I'm Aracely, welcome to my profile </h2>
 
 I'm a Systems Engineer from Venezuela  and a passionate Web Developer in progress. Every day I'm learning a lot of new things about development and I would like to learn about design ... soon.
 
@@ -12,7 +12,7 @@ Lover of music 🎸 | 📚 books | 🎬 movies and series | 🦸 🤓 comics and
 ## 💬 Feel free to reach out to me.
 
 <p align="left">
-<a href="https://codepen.io/ashkoredev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ashkoredev" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/ashkoredev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ashkoredev" height="30" width="40" /></a> -->
 <a href="https://twitter.com/ashkoredev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashkoredev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashkoredev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashkoredev" height="30" width="40" /></a>
 </p>
@@ -21,7 +21,7 @@ Lover of music 🎸 | 📚 books | 🎬 movies and series | 🦸 🤓 comics and
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AshkoreDev)](https://twitter.com/AshkoreDev)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//AshkoreDev) -->
 
-📫 E-mail: aracelyalba8@gmail.com.
+
 
 <br>
 

@@ -4,12 +4,13 @@
 
 ## 🤓 About Me
 
-- :mortar_board: I'm Systems Engineer
-- :house_with_garden: I'm from Venezuela.
+- :mortar_board: I'm a **Systems Engineer.**
+
+- :house_with_garden: I'm from **Venezuela.**
 
 - :email: How to reach me **aracelyalba8@gmail.com**
 
-- :zap: Fun fact **I'm lover of music 🎸 | 📚 books | 🎬 movies and series | 🦸 comics and superheroes.**
+- :zap: Fun facts **I'm lover of music 🎸 | 📚 books | 🎬 movies and series | 🦸 comics and superheroes.**
 
 </br>
 

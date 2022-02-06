@@ -25,7 +25,7 @@
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"> 
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  </a> 
+  </a>
   <a href="https://sass-lang.com" target="_blank" title="Sass">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="45" height="45"/>
   </a> 
@@ -35,6 +35,9 @@
   <a href="https://tailwindcss.com/" target="_blank" title="TailwindCSS">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>
   </a>  
+  <a href="https://www.webcomponents.org/" target="_blank" title="Web Components">
+    <img src="https://www.vectorlogo.zone/logos/webcomponents/webcomponents-icon.svg" alt="Web Components" width="45" height="45"/>
+  </a> 
   <a style="padding-right:8px;" href="https://nodejs.org" target="_blank" title="NodeJs">
     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   </a> 

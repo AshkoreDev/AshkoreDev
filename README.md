@@ -68,17 +68,17 @@
   <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="twitter" width="40" height="40"/>
 </a>
 
-</br>
+</br></br>
 
 ## 📊 My Stats 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshkoreDev&layout=compact&theme=tokyonight)](https://github.com/AshkoreDev/github-readme-stats)
 
-
 </br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshkoreDev&show_icons=true&theme=tokyonight)
 
+</br>
 
 <h3 align="right"> Have a nice day ✌️ </h3> 
 

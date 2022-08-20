@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hello :wave: I'm Aracely </h1>
-<h3 align="center"> I'm a Jr. Web Developer. </h3>
+<h3 align="center"> I'm a Web Developer. </h3>
 
 ## :man_technologist:  About Me
 

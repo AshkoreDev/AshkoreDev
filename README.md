@@ -72,11 +72,9 @@
 
 ## 📊 My Stats 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshkoreDev&layout=compact&theme=tokyonight)](https://github.com/AshkoreDev/github-readme-stats)
-
-</br>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshkoreDev&show_icons=true&theme=tokyonight)
+|                   |                    |
+| ----------------- | ------------------ |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshkoreDev&layout=compact&theme=tokyonight)](https://github.com/AshkoreDev/github-readme-stats) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshkoreDev&show_icons=true&theme=tokyonight) |
 
 </br>
 

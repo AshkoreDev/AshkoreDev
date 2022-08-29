@@ -8,7 +8,7 @@
 
 - :house_with_garden:  I'm from **Venezuela.**
 
-- :mailbox:  How to reach me **aracelyalba8@gmail.com**
+- :mailbox:  How to reach me **ashkoredev@gmail.com**
 
 - :zap:  Fun facts **I'm lover of music 🎸 | 📚 books | 🎬 movies and series | 🦸 comics and superheroes.**
 

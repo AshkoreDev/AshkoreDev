@@ -10,7 +10,7 @@
 
 - :mailbox:  How to reach me **ashkoredev@gmail.com**
 
-- My portfolio **ashkoredev.github.io/portfolio/**
+- My portfolio https://ashkoredev.github.io/portfolio/
 
 - :zap:  Fun facts **I'm lover of music 🎸 | 📚 books | 🎬 movies and series | 🦸 comics and superheroes.**
 

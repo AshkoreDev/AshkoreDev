@@ -6,11 +6,13 @@
 
 - :mortar_board:  I'm a **Systems Engineer**.
 
-- :house_with_garden:  I'm from **Venezuela.**
+- :house_with_garden:  I'm from **Venezuela**.
+
+- ✍️ Now I am learning **React**.
 
 - :mailbox:  How to reach me **ashkoredev@gmail.com**
 
-- 💼 My portfolio https://ashkoredev.github.io/portfolio/
+- 💼 My portfolio<a href="https://ashkoredev.github.io/portfolio/" target="_blank" title="Portfolio"> 
 
 - :zap:  Fun facts **I'm lover of music 🎸 | 📚 books | 🎬 movies and series | 🦸 comics and superheroes.**
 

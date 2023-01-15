@@ -10,9 +10,9 @@
 
 - :mailbox:  How to reach me **ashkoredev@gmail.com**
 
-- <a href="https://ashkoredev.github.io/portfolio/" target="_blank" title="Portfolio">💼 My portfolio</a>
+- :briefcase: <a href="https://ashkoredev.github.io/portfolio/" target="_blank" title="Portfolio">My portfolio</a>
 
-- ✍️ Now I am learning **React**.
+- :brain: Now I am learning **React**.
 
 - :zap:  Fun facts **I'm lover of music 🎸 | 📚 books | 🎬 movies and series | 🦸 comics and superheroes.**
 

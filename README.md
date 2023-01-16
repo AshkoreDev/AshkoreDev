@@ -4,17 +4,17 @@
 
 ## :man_technologist:  About Me
 
+- :brain: Now I am learning **React**.
+
 - :mortar_board:  I'm a **Systems Engineer**.
 
 - :house_with_garden:  I'm from **Venezuela**.
 
-- :mailbox:  How to reach me **ashkoredev@gmail.com**
-
 - :briefcase: <a href="https://ashkoredev.github.io/portfolio/" target="_blank" title="Portfolio">My portfolio</a>
 
-- :paintbrush: <a href="https://codepen.io/AshkoreDev" target="_blank" title="CodePen">I like to do small projects</a>
+- :paintbrush: I like to do small projects in <a href="https://codepen.io/AshkoreDev" target="_blank" title="CodePen">CodePen</a>
 
-- :brain: Now I am learning **React**.
+- :mailbox:  How to reach me **ashkoredev@gmail.com**
 
 - :zap:  Fun facts **I'm lover of music 🎸 | 📚 books | 🎬 movies and series | 🦸 comics and superheroes.**
 

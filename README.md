@@ -12,6 +12,8 @@
 
 - :briefcase: <a href="https://ashkoredev.github.io/portfolio/" target="_blank" title="Portfolio">My portfolio</a>
 
+- :paintbrush: <a href="https://codepen.io/AshkoreDev" target="_blank" title="CodePen">I like to do small projects</a>
+
 - :brain: Now I am learning **React**.
 
 - :zap:  Fun facts **I'm lover of music 🎸 | 📚 books | 🎬 movies and series | 🦸 comics and superheroes.**

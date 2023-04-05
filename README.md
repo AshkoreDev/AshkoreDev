@@ -24,37 +24,46 @@
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank" title="HTML5"> 
-    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" height="40"/>
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" title="CSS3"> 
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40"/>
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"> 
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40"/>
   </a>
   <a href="https://sass-lang.com" target="_blank" title="Sass">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
   </a> 
   <a href="https://getbootstrap.com" target="_blank" title="Bootstrap">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="45"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" title="TailwindCSS">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" width="40" height="40"/>
+  </a>  
+   <a href="https://styled-components.com/" target="_blank" title="Styled Components">
+    <img src="https://styled-components.com/logo.png" width="40" height="40"/>
   </a>  
   <a href="https://www.webcomponents.org/" target="_blank" title="Web Components">
-    <img src="https://www.vectorlogo.zone/logos/webcomponents/webcomponents-icon.svg" width="45" height="45"/>
+    <img src="https://www.vectorlogo.zone/logos/webcomponents/webcomponents-icon.svg" width="40" height="40"/>
+  </a>
+   <a href="https://react.dev/" target="_blank" title="ReactJS">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/>
   </a>
   <a href="https://www.php.net/" target="_blank" title="PHP">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="45"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="40" height="40"/>
   </a> 
-  <a href="https://nodejs.org" target="_blank" title="NodeJs">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <a href="https://nodejs.org" target="_blank" title="NodeJS">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="50" height="50"/>
+  </a>
+    <a href="http://expressjs.com/" target="_blank" title="ExpressJS">
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40" height="40"/>
   </a> 
   <a href="https://www.mysql.com/" target="_blank" title="MySQL">
-    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
+    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="50" height="50"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" title="PostgreSQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"width="40" height="40"/>
   </a> 
   <a href="https://postman.com" target="_blank" title="Postman">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>

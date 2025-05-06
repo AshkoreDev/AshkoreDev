@@ -14,8 +14,6 @@
 
 - :paintbrush: I like to do small projects in <a href="https://codepen.io/AshkoreDev" target="_blank" title="CodePen">CodePen</a>
 
-- :zap:  Fun facts **I'm lover of music 🎸 | 📚 books | 🎬 movies and series | 🦸 comics and superheroes.**
-
 </br>
 
 ## :rocket: Languages and Tools
